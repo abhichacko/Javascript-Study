@@ -9,6 +9,7 @@ let display = (name) => {
 };
 
 let greeting = display("abhi");
+
 console.log(greeting);
 
 let sayHi = () => alert("Hello!");
